@@ -1,0 +1,9 @@
+E:\git\Basis.NET\CityInformationApp\CityInformationApp\bin\Debug\CityInformationApp.exe.config
+E:\git\Basis.NET\CityInformationApp\CityInformationApp\bin\Debug\CityInformationApp.exe
+E:\git\Basis.NET\CityInformationApp\CityInformationApp\bin\Debug\CityInformationApp.pdb
+E:\git\Basis.NET\CityInformationApp\CityInformationApp\obj\Debug\CityInformationApp.csprojResolveAssemblyReference.cache
+E:\git\Basis.NET\CityInformationApp\CityInformationApp\obj\Debug\CityInformationApp.CityInformation.resources
+E:\git\Basis.NET\CityInformationApp\CityInformationApp\obj\Debug\CityInformationApp.Properties.Resources.resources
+E:\git\Basis.NET\CityInformationApp\CityInformationApp\obj\Debug\CityInformationApp.csproj.GenerateResource.Cache
+E:\git\Basis.NET\CityInformationApp\CityInformationApp\obj\Debug\CityInformationApp.exe
+E:\git\Basis.NET\CityInformationApp\CityInformationApp\obj\Debug\CityInformationApp.pdb
